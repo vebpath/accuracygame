@@ -1,0 +1,2 @@
+# Javascript Accuracy Game
+In this video, we're going to create a simple and fun JavaScript game. Picture a pot filled with water, and your challenge is to guess how much water is in it. It's like a digital guessing game where you try to estimate the water level. Stay tuned as we walk through the process of building this entertaining game using JavaScript. It's a great way to learn some coding while having a good time. Let's get started on the journey of making our own "Guess the Water Level" game!
